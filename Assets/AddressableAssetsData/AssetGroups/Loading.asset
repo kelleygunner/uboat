@@ -1,0 +1,41 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Loading
+  m_EditorClassIdentifier: 
+  m_GroupName: Loading
+  m_GUID: a6c06ed97fa104a5d8f020f5f8472ee2
+  m_SerializeEntries:
+  - m_GUID: 2bf24832d319d4658a68c83cde03128e
+    m_Address: Assets/Game/Content/Prefabs/Loading/LoadingScreen 1.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Loading
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 66ae709b6ce4549b08e16249afa2f5e7
+    m_Address: LoadingScreen
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Loading
+    FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: 7f6ab290643e042bc83b026b43efac87
+    m_Address: Assets/Game/Content/Prefabs/Loading/LoadingScreen 2.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - Loading
+    FlaggedDuringContentUpdateRestriction: 0
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: 3a10abdd78be9476783f2ce85ca69b7a, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: fe4b2093b0cf44959a99bbcaecdecc41, type: 2}
+    - {fileID: 11400000, guid: 7650b0e81eda3400b841b201eca0cd94, type: 2}
